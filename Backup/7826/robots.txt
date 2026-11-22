@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+
+Sitemap: https://www.punjabinsurance.ca/sitemap.xml

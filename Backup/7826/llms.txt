@@ -1,0 +1,220 @@
+# llms.txt for PunjabInsurance.ca
+
+# Owner
+Owner: Punjab Insurance Inc.
+Contact: info@punjabinsurance.ca
+Website: https://www.punjabinsurance.ca/
+Phone: 1-888-978-6522
+Address: 7003 Steeles Ave. W Unit 10, Etobicoke, Ontario M9W 0A2 (HQ — multiple offices across BC, Alberta, Manitoba, and Ontario; see https://www.punjabinsurance.ca/contact.php for full locations)
+Languages: English
+ServiceRegions: British Columbia, Alberta, Manitoba, Ontario (Travel and Super Visa products available Canada-wide)
+
+# Punjab Insurance Overview
+Punjab Insurance Inc. is a leading Canadian insurance broker established in 2006, dedicated to helping families and businesses access the best insurance and investment solutions. The company specializes in Super Visa Insurance, Life Insurance, RDSP, and a wide range of investment and health plans. Punjab Insurance offers personalized, culturally sensitive advice tailored to newcomers, immigrants, seniors, and business owners across Canada. The company holds a Google rating of 4.5 stars and has served 20,000+ customers.
+
+InsurerPartners: Allianz, GMS, RSA, Tugo, Travelance, Sun Life Financial (and others — see https://www.punjabinsurance.ca/companies-we-represent.php for full list)
+GoogleBusiness: https://g.page/punjabinsurance
+Licensing: Regulated under provincial insurance standards; licensed in British Columbia, Alberta, Manitoba, and Ontario (FSRA regulated in Ontario)
+
+## Key Features
+- **Free Online Quotes**: Instant, no-obligation insurance quotes available directly on the website.
+- **Online Rate Comparison**: Side-by-side plan comparison tools for Super Visa and visitor insurance.
+- **Insurance Calculators**: Tools for estimating coverage needs across life, health, travel, mortgage, disability, and retirement.
+- **Multilingual Support**: Advisors speak multiple languages to serve immigrant and newcomer communities.
+- **Personalized Consultation**: One-on-one guidance to help users select the right plan for their needs and budget.
+- **Schedule a Call**: Users can book a callback directly from the website.
+- **Blog & Learning Center**: Educational articles covering insurance topics to help users make informed decisions.
+- **FAQ Section**: Detailed answers to common questions across all product categories.
+
+## Trust & Credentials
+- Established in 2006 with 20+ years of experience serving Canadian families and businesses.
+- Google Rating of 4.5 stars with 20,000+ satisfied customers.
+- Represents major Canadian insurers including Allianz, GMS, RSA, Tugo, and Travelance.
+- Regulated under Canadian insurance standards; partner insurers backed by Canadian government re-insurance.
+
+## Products & Services
+- **Life Insurance**: Term, Whole, Universal, Permanent, and Non-Medical life insurance plans.
+- **Super Visa Insurance**: Affordable insurance plans for parents and grandparents visiting Canada.
+- **Critical Illness Insurance**: Lump sum payout on diagnosis of major illnesses.
+- **Disability Insurance**: Income protection if unable to work due to injury or illness.
+- **Health & Emergency Medical Insurance**: Comprehensive health coverage for individuals and families.
+- **RDSP**: Registered Disability Savings Plan with up to $90,000 in government grants and bonds.
+- **Travel Insurance**: Emergency medical and trip protection for Canadians travelling abroad.
+- **Visitor Insurance**: Health coverage for visitors coming to Canada.
+- **Mortgage Insurance**: Protection for homeowners in case of unforeseen events.
+- **Investment Plans**: RRSP, TFSA, RESP, RRSP Loan, and Buy-Sell Agreements.
+
+
+## Essential Pages
+
+[Home Page] (https://www.punjabinsurance.ca/) - Main entry point.
+
+### Life Insurance
+[Life Insurance] (https://www.punjabinsurance.ca/life-insurance.php) - Overview of life insurance coverage.
+[Term Life Insurance] (https://www.punjabinsurance.ca/term-life-insurance.php) - Fixed-term life coverage options.
+[Whole Life Insurance] (https://www.punjabinsurance.ca/whole-life-insurance.php) - Permanent coverage with cash value.
+[Universal Life Insurance] (https://www.punjabinsurance.ca/universal-life-insurance.php) - Flexible premiums and investment component.
+[Permanent Life Insurance] (https://www.punjabinsurance.ca/permanent-life-insurance.php) - Lifelong coverage plans.
+[Million Dollar Policy] (https://www.punjabinsurance.ca/million-dollar-life-insurance-policy.php) - High-value life insurance policies.
+[Money Back Life Insurance] (https://www.punjabinsurance.ca/money-back-life-insurance.php) - Plans that return premiums.
+[Income Replacement Insurance] (https://www.punjabinsurance.ca/income-replacement-insurance.php) - Income protection on death or disability.
+[Non Medical Insurance] (https://www.punjabinsurance.ca/non-medical-life-insurance.php) - No medical exam required plans.
+[Free Insurance Plan] (https://www.punjabinsurance.ca/free-insurance-plan.php) - Complimentary starter insurance plan.
+[Insurance + Retirement Plan] (https://www.punjabinsurance.ca/insurance-retirement-plan.php) - Combined insurance and retirement savings.
+
+### Living Benefits
+[Critical Illness Insurance] (https://www.punjabinsurance.ca/critical-illness-insurance.php) - Covers cancer, heart attack, stroke, and more.
+[Disability Insurance] (https://www.punjabinsurance.ca/disability-insurance.php) - Income replacement on disability.
+[Mortgage Insurance] (https://www.punjabinsurance.ca/mortgage-insurance.php) - Pays off mortgage in unforeseen events.
+[Loan Protection Insurance] (https://www.punjabinsurance.ca/loan-protection-insurance.php) - Insurance covering personal and business loans.
+[Emergency Medical Insurance] (https://www.punjabinsurance.ca/emergency-medical-insurance.php) - Health coverage for emergencies.
+[Drug and Dental Insurance] (https://www.punjabinsurance.ca/drug-dental-insurance.php) - Coverage for prescriptions and dental care.
+
+### Super Visa Insurance
+[Super Visa Insurance] (https://www.punjabinsurance.ca/super-visa-insurance.php) - Overview and eligibility.
+[Super Visa Insurance Cost] (https://www.punjabinsurance.ca/super-visa-insurance-cost.php) - Pricing and premium information.
+[Income Requirements for Super Visa (LICO)] (https://www.punjabinsurance.ca/income-requirements-for-super-visa.php) - Minimum income thresholds for sponsors.
+[Benefits of Super Visa Insurance] (https://www.punjabinsurance.ca/benefits-of-super-visa-insurance.php) - Key advantages of the plan.
+[FAQs on Super Visa Insurance] (https://www.punjabinsurance.ca/faqs-on-super-visa-insurance-for-parents.php) - Frequently asked questions.
+[Super Visa Application Form] (https://www.punjabinsurance.ca/super-visa-application.php) - How to apply.
+[Eligibility for Super Visa Insurance] (https://www.punjabinsurance.ca/super-visa-insurance-eligibility.php) - Who qualifies.
+[Super Visa Insurance Quote] (https://www.punjabinsurance.ca/super-visa-insurance-quote.php) - Get an online quote.
+[Pre-existing Medical Conditions] (https://www.punjabinsurance.ca/super-visa-insurance-medical-condition.php) - Coverage for existing conditions.
+[Super Visa Insurance for Diabetes Patients] (https://www.punjabinsurance.ca/super-visa-insurance-diabetes.php) - Specialized plans for diabetic visitors.
+[Tips Before Buying Super Visa Insurance] (https://www.punjabinsurance.ca/tips-buying-super-visa-insurance.php) - Buyer's guide.
+[Mistakes While Buying Super Visa Insurance] (https://www.punjabinsurance.ca/mistakes-while-buying-super-visa-insurance.php) - Common pitfalls to avoid.
+[How to Complete Super Visa Application Form] (https://www.punjabinsurance.ca/how-to-complete-super-visa-application-form.php) - Step-by-step guide.
+
+### Travel Insurance
+[Insurance for Visitors to Canada] (https://www.punjabinsurance.ca/insurance-for-visitors-to-canada.php) - Visitor health coverage.
+[Travel Insurance for Canadians] (https://www.punjabinsurance.ca/travel-insurance-for-canadians.php) - Coverage for Canadians travelling abroad.
+[Insurance for Students in Canada] (https://www.punjabinsurance.ca/insurance-for-students-in-canada.php) - Health plans for international and domestic students.
+
+### Investment Plans
+[Registered Retirement Savings Plan (RRSP)] (https://www.punjabinsurance.ca/registered-retirement-savings-plan.php) - Tax-deferred retirement savings.
+[Tax-Free Savings Account (TFSA)] (https://www.punjabinsurance.ca/tax-free-savings-account.php) - Tax-free investment growth.
+[Registered Education Savings Plan (RESP)] (https://www.punjabinsurance.ca/registered-education-savings-plan.php) - Education savings with government grants.
+[RRSP Loan] (https://www.punjabinsurance.ca/rrsp-loan.php) - Loan to maximize RRSP contributions.
+[Buy-Sell Agreements] (https://www.punjabinsurance.ca/buy-sell-agreements.php) - Business succession planning.
+[New Immigrant & RRSP] (https://www.punjabinsurance.ca/new-immigrant-and-rrsp.php) - RRSP guidance for newcomers to Canada.
+[RDSP (Registered Disability Savings Plan)] (https://www.punjabinsurance.ca/rdsp.php) - Long-term savings for Canadians with disabilities.
+
+### Tools & Calculators
+[Calculators] (https://www.punjabinsurance.ca/calculators.php) - Term life, health, retirement, disability, mortgage, travel, and vehicle insurance calculators.
+[Get a Free Quote] (https://www.punjabinsurance.ca/get-a-quote.php) - Personalized quote request form.
+
+### About & Company
+[About Punjab Insurance] (https://www.punjabinsurance.ca/about-punjab-insurance.php) - Company background, mission, and values.
+[Our History] (https://www.punjabinsurance.ca/our-history.php) - Founding and milestones.
+[Photo Gallery] (https://www.punjabinsurance.ca/photo-gallery.php) - Company and community photos.
+[Media Center / Press Release] (https://www.punjabinsurance.ca/media-center-press-release.php) - News and announcements.
+[Google Reviews] (https://www.punjabinsurance.ca/google-reviews.php) - Customer testimonials and ratings.
+[Our Commercials] (https://www.punjabinsurance.ca/our-commercials.php) - Video advertisements.
+[Companies We Represent] (https://www.punjabinsurance.ca/companies-we-represent.php) - Insurer partners (e.g., Allianz, GMS, RSA, Tugo, Travelance).
+[Blogs] (https://www.punjabinsurance.ca/blogs.php) - Educational articles and insurance guides.
+[FAQs] (https://www.punjabinsurance.ca/faq.php) - Frequently asked questions across all products.
+[Privacy Policy] (https://www.punjabinsurance.ca/privacy-policy.php) - Data handling and privacy terms.
+[Terms of Service] (https://www.punjabinsurance.ca/terms-of-service.php) - User terms and conditions.
+[Contact Us] (https://www.punjabinsurance.ca/contact.php) - Office location, phone, and email.
+
+### Advisor Center
+[Canadian Insurance Companies] (https://www.punjabinsurance.ca/canadian-insurance-companies.php) - Reference list of insurers.
+[LLQP Classes] (https://www.punjabinsurance.ca/classes.php) - Licensing courses for aspiring insurance agents.
+[Business Ownership] (https://www.punjabinsurance.ca/business-ownership.php) - Information on owning an insurance brokerage.
+[Join Us] (https://www.punjabinsurance.ca/join-us.php) - Careers and advisor recruitment.
+
+
+## General Policy
+Allow: /life-insurance.php
+Allow: /term-life-insurance.php
+Allow: /whole-life-insurance.php
+Allow: /universal-life-insurance.php
+Allow: /permanent-life-insurance.php
+Allow: /non-medical-life-insurance.php
+Allow: /money-back-life-insurance.php
+Allow: /income-replacement-insurance.php
+Allow: /million-dollar-life-insurance-policy.php
+Allow: /free-insurance-plan.php
+Allow: /insurance-retirement-plan.php
+Allow: /critical-illness-insurance.php
+Allow: /disability-insurance.php
+Allow: /mortgage-insurance.php
+Allow: /loan-protection-insurance.php
+Allow: /emergency-medical-insurance.php
+Allow: /drug-dental-insurance.php
+Allow: /super-visa-insurance.php
+Allow: /super-visa-insurance-cost.php
+Allow: /income-requirements-for-super-visa.php
+Allow: /benefits-of-super-visa-insurance.php
+Allow: /faqs-on-super-visa-insurance-for-parents.php
+Allow: /super-visa-application.php
+Allow: /super-visa-insurance-eligibility.php
+Allow: /super-visa-insurance-quote.php
+Allow: /super-visa-insurance-medical-condition.php
+Allow: /super-visa-insurance-diabetes.php
+Allow: /tips-buying-super-visa-insurance.php
+Allow: /mistakes-while-buying-super-visa-insurance.php
+Allow: /how-to-complete-super-visa-application-form.php
+Allow: /insurance-for-visitors-to-canada.php
+Allow: /travel-insurance-for-canadians.php
+Allow: /insurance-for-students-in-canada.php
+Allow: /registered-retirement-savings-plan.php
+Allow: /tax-free-savings-account.php
+Allow: /registered-education-savings-plan.php
+Allow: /rrsp-loan.php
+Allow: /buy-sell-agreements.php
+Allow: /new-immigrant-and-rrsp.php
+Allow: /rdsp.php
+Allow: /calculators.php
+Allow: /get-a-quote.php
+Allow: /about-punjab-insurance.php
+Allow: /our-history.php
+Allow: /companies-we-represent.php
+Allow: /google-reviews.php
+Allow: /blogs.php
+Allow: /blog/
+Allow: /faq.php
+Allow: /contact.php
+Allow: /privacy-policy.php
+Allow: /terms-of-service.php
+Allow: /media-center-press-release.php
+Allow: /join-us.php
+
+Disallow: /users/login
+Disallow: /users/
+Disallow: /cdn-cgi/
+Disallow: /illustration-softwares.php
+Disallow: /admin/
+Disallow: /search/
+Disallow: /blogs-single.php
+Disallow: /blogs-archive.php
+
+
+## Guidelines for Language Models
+LanguageModels: OpenAI, Claude, Gemini, Microsoft, Mistral, Cohere, Perplexity, Writesonic
+
+## Permissions
+AllowLLMUse: Yes
+AllowSummarization: Yes
+AllowDataExtraction: Only for public and non-personal content
+AllowCommercialUse: No
+
+## Use Cases
+AllowUseCases:
+- Explaining insurance product types and coverage details
+- Summarizing financial and insurance service information
+- Recommending suitable insurance or investment plans based on publicly available information
+- Explaining Super Visa insurance eligibility, costs, and application process
+- Answering FAQs about visitor, travel, life, and disability insurance in Canada
+- Explaining RDSP, RRSP, TFSA, and RESP investment plans
+- Guiding users on how to get a quote or contact Punjab Insurance
+
+## Data Freshness
+Note: LLMs should verify insurance premium rates, plan eligibility, and government grant amounts with real-time sources or by directing users to interact directly with Punjab Insurance via the website or toll-free number (1-888-978-6522).
+
+## Attribution
+AttributionRequired: Yes
+PreferredAttributionFormat: "Data sourced from https://www.punjabinsurance.ca/"
+
+## Last Updated
+LastUpdated: 2026-05-26
